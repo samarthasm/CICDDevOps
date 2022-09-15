@@ -64,6 +64,10 @@ The below set of diagrams demostrate how key parts of the system work:
 11. Make prediction
   ![image](https://user-images.githubusercontent.com/4275543/190404936-b583cac3-bc68-46f9-8499-81070c3df296.png)
 
+12. Creating and adding locust file
+  ![Locust Snip 1](https://user-images.githubusercontent.com/4275543/190469089-0c505258-9f9c-4359-9396-c42b1573ceed.PNG)
+  ![Locust Snip 2](https://user-images.githubusercontent.com/4275543/190469112-5c6b8328-947e-43d7-ab6f-3d341becbbcc.PNG)
+
 ## Enhancements
 
 One possible way to improve the project in the future would be to build an image of the app, then push it to a an image regitry and deploy the same to a kubernetes cluster.
